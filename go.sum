@@ -34,6 +34,8 @@ github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f/go.mod h1:E3G3o1h8I7cfc
 github.com/cpuguy83/go-md2man/v2 v2.0.0/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=
 github.com/creep33/gokrb5/v8 v8.0.0-20241012231504-d0af11048579 h1:z/YWcnm4jrzAxQJDK2OHC4JooBNrApMUKZ5XTBLbVoo=
 github.com/creep33/gokrb5/v8 v8.0.0-20241012231504-d0af11048579/go.mod h1:C0KUwFVZAubBv6M21C0TTbZ2g3H+K0KENbMnAcTE8Fc=
+github.com/creep33/gokrb5/v8 v8.0.0-20241012234502-2ef5969ddbac h1:DkzyydsahyJsFQdv6kFe4DOyCi42FW8N1T7I6F4xv3A=
+github.com/creep33/gokrb5/v8 v8.0.0-20241012234502-2ef5969ddbac/go.mod h1:C0KUwFVZAubBv6M21C0TTbZ2g3H+K0KENbMnAcTE8Fc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
